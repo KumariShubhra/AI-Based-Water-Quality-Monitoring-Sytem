@@ -80,13 +80,13 @@ water-quality-prediction-system/
 
 ![Graph](screenshots/graph.PNG)
 
-### PDF Report
-
-![Report](screenshots/report_pdf.PNG)
-
 ### Alert
 
 ![Report](screenshots/alert.PNG)
+
+### PDF Report
+
+![Report](screenshots/report_pdf.PNG)
 
 
 ## 🎯 Future Improvements
