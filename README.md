@@ -66,6 +66,29 @@ water-quality-prediction-system/
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard_page.PNG)
+
+### Prediction Result
+
+![Prediction](screenshots/prediction.PNG)
+
+### Graph Analysis
+
+![Graph](screenshots/graph.PNG)
+
+### PDF Report
+
+![Report](screenshots/report_pdf.PNG)
+
+### Alert
+
+![Report](screenshots/alert.PNG)
+
+
 ## 🎯 Future Improvements
 
 * Deploy on cloud (Heroku / AWS)
