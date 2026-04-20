@@ -10,7 +10,7 @@ app = Flask(__name__)
 app.secret_key = "secret123"
 
 # ================= LOAD MODEL =================
-model = pickle.load(open("water_quality_model.pkl", "rb"))
+model = pickle.load(open("model/water_quality_model.pkl", "rb"))
 
 # ================= USERS =================
 users = {"admin": "1234"}
